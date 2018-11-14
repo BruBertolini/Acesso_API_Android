@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">ConsumoAPI</string>
     <string name="label_search">Pesquisar Pokémon</string>
+    <string name="label_pokemon_number">Informe o número do Pokémon</string>
+    <string name="btn_search">Pesquisar</string>
 </resources>

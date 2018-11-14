@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ConsumoAPI</string>
+    <string name="app_name">PokéSearch</string>
     <string name="label_search">PokéSearch</string>
     <string name="label_pokemon_number">Inform Pokémon number</string>
     <string name="btn_search">Search</string>

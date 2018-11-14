@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConsumoAPI</string>
+    <string name="label_search">PokéSearch</string>
+</resources>
